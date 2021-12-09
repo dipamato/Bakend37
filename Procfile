@@ -1,1 +1,1 @@
-web: npm ejecutar inicio: prod
+web: node index.js
